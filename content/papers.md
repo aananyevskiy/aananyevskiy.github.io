@@ -1,11 +1,14 @@
 ---
 title: "Papers and Preprints"
-date: 2024-05-08
+date: 2024-08-20
 hidemeta: true
 description: "Papers by Alexey Ananyevskiy."
 ---
 
 
+**00. Chow rings of quasi-split geometrically almost simple algebraic groups**\
+*with Geldhauser*\
+[arXiv](https://arxiv.org/abs/2408.09390)
 	
 **00. Combing a hedgehog over a field**\
 *with Marc Levine*\

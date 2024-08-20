@@ -15,6 +15,7 @@ description: "Other by Alexey Ananyevskiy."
 [Elden&nbsp;Elmanto](https://eldenelmanto.com/)
 [Skip&nbsp;Garibaldi](https://www.garibaldibros.com/wp/)
 [Grigory&nbsp;Garkusha](https://math.swansea.ac.uk/staff/gg/)
+[Nikita&nbsp;Geldhauser](https://www.mathematik.uni-muenchen.de/~geldhauser/)
 [Marc&nbsp;Levine](https://www.esaga.uni-due.de/marc.levine/)
 [Alexander&nbsp;Neshitov](https://scholar.google.es/citations?user=99cCqvcAAAAJ&hl=es)
 [Ivan&nbsp;Panin](https://www.mathnet.ru/php/person.phtml?&personid=17453&option_lang=eng)

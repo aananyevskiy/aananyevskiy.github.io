@@ -6,8 +6,15 @@
     <description>Recent content on Alexey Ananyevskiy</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aananyevskiy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Papers and Preprints</title>
+      <link>https://aananyevskiy.github.io/papers/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://aananyevskiy.github.io/papers/</guid>
+      <description>Papers by Alexey Ananyevskiy.</description>
+    </item>
     <item>
       <title>Contacts</title>
       <link>https://aananyevskiy.github.io/contacts/</link>
@@ -28,13 +35,6 @@
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>https://aananyevskiy.github.io/other/</guid>
       <description>Other by Alexey Ananyevskiy.</description>
-    </item>
-    <item>
-      <title>Papers and Preprints</title>
-      <link>https://aananyevskiy.github.io/papers/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://aananyevskiy.github.io/papers/</guid>
-      <description>Papers by Alexey Ananyevskiy.</description>
     </item>
     <item>
       <title>Short CV</title>
