@@ -7,7 +7,7 @@ description: "Papers by Alexey Ananyevskiy."
 
 
 **00. Chow rings of quasi-split geometrically almost simple algebraic groups**\
-*with Geldhauser*\
+*with Nikita Geldhauser*\
 [arXiv](https://arxiv.org/abs/2408.09390)
 	
 **00. Combing a hedgehog over a field**\
