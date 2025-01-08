@@ -9,14 +9,15 @@ description: "Papers by Alexey Ananyevskiy."
 **00. Chow rings of quasi-split geometrically almost simple algebraic groups**\
 *with Nikita Geldhauser*\
 [arXiv](https://arxiv.org/abs/2408.09390)
-	
-**00. Combing a hedgehog over a field**\
-*with Marc Levine*\
-[arXiv](https://arxiv.org/abs/2311.07486)
 
 **00. On the motivic Adams conjecture**\
 *with Elden Elmanto, Oliver Röndigs and Maria Yakerson*\
 [arXiv](https://arxiv.org/abs/2310.00974)
+
+**20. Combing a hedgehog over a field**\
+*with Marc Levine*\
+to appear in Algebra and Number Theory\
+[arXiv](https://arxiv.org/abs/2311.07486)
 
 **19. On the $\mathbb{A}^1$-Euler characteristic of the variety of maximal tori in a reductive group**\
 IMRN, 2022:19 (2022), 15390–15409\

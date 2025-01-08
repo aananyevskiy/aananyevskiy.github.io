@@ -55,9 +55,9 @@ params:
           enabled: true
           title: Alexey Ananyevskiy
           subtitle: "I am a mathematician currently based in Munich and supported by DFG, before I was a senior researcher at the Steklov Institute and a deputy director of the Euler International Mathematical Institute in St. Petersburg. My research focuses mostly on cohomological and topological methods in algebraic geometry, and I am interested in motivic homotopy theory, K-theory and algebraic groups."
- #         imageUrl: "photo.jpg"
-          imageWidth: 160
-          imageHeight: 160
+          #imageUrl: "CIRM.jpg"
+          imageWidth: 300
+          imageHeight: 300
           imageTitle: Alexey Ananyevskiy
           buttons:
             - name: CV
