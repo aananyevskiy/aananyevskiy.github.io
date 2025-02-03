@@ -1,11 +1,14 @@
 ---
 title: "Lecture notes and talks"
-date: 2024-05-08
+date: 2025-02-03
 hidemeta: true
 description: "Lecture notes by Alexey Ananyevskiy."
 ---
 
 ### Lecture notes
+
+**Exceptional collections in algebraic geometry**, winter semester 2024/2025 at LMU\
+[handwritten notes](ExceptionalcollectionsWiSe2425.pdf)
 
 **Toric varieties**, summer semester 2024 at LMU\
 [handwritten notes](Toric2024.pdf)
