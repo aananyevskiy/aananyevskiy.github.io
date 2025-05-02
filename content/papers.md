@@ -1,6 +1,6 @@
 ---
 title: "Papers and Preprints"
-date: 2024-08-20
+date: 2025-05-02
 hidemeta: true
 description: "Papers by Alexey Ananyevskiy."
 ---
@@ -12,6 +12,7 @@ description: "Papers by Alexey Ananyevskiy."
 
 **00. On the motivic Adams conjecture**\
 *with Elden Elmanto, Oliver Röndigs and Maria Yakerson*\
+to appear in Journal of Topology\
 [arXiv](https://arxiv.org/abs/2310.00974)
 
 **20. Combing a hedgehog over a field**\
