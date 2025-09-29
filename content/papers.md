@@ -1,6 +1,6 @@
 ---
 title: "Papers and Preprints"
-date: 2025-05-02
+date: 2025-09-29
 hidemeta: true
 description: "Papers by Alexey Ananyevskiy."
 ---
@@ -10,15 +10,15 @@ description: "Papers by Alexey Ananyevskiy."
 *with Nikita Geldhauser*\
 [arXiv](https://arxiv.org/abs/2408.09390)
 
-**00. On the motivic Adams conjecture**\
-*with Elden Elmanto, Oliver Röndigs and Maria Yakerson*\
-to appear in Journal of Topology\
-[arXiv](https://arxiv.org/abs/2310.00974)
-
-**20. Combing a hedgehog over a field**\
+**21. Combing a hedgehog over a field**\
 *with Marc Levine*\
 to appear in Algebra and Number Theory\
 [arXiv](https://arxiv.org/abs/2311.07486)
+
+**20. On the motivic Adams conjecture**\
+*with Elden Elmanto, Oliver Röndigs and Maria Yakerson*\
+Journal of Topology 18:2 (2025), e70026\
+[journal](https://doi.org/10.1112/topo.70026) [arXiv](https://arxiv.org/abs/2310.00974) 
 
 **19. On the $\mathbb{A}^1$-Euler characteristic of the variety of maximal tori in a reductive group**\
 IMRN, 2022:19 (2022), 15390–15409\
