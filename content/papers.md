@@ -12,8 +12,8 @@ description: "Papers by Alexey Ananyevskiy."
 
 **21. Combing a hedgehog over a field**\
 *with Marc Levine*\
-to appear in Algebra and Number Theory\
-[arXiv](https://arxiv.org/abs/2311.07486)
+Algebra and Number Theory 19:12 (2025)\
+[journal](https://doi.org/10.2140/ant.2025.19.2409) [arXiv](https://arxiv.org/abs/2311.07486)
 
 **20. On the motivic Adams conjecture**\
 *with Elden Elmanto, Oliver Röndigs and Maria Yakerson*\

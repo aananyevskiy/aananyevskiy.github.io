@@ -28,6 +28,11 @@ description: "Other by Alexey Ananyevskiy."
 
 ## Events organized
 
+**[planned]** Conference **Motifs and Motives**\
+June 29 – July 03, 2026 at LMU, Munich, Germany\
+*coorganized with Alexey Ananyevskiy, Nikita Geldhauser, Andrei Lavrenov and Maksim Zhykhovich*\
+[webpage](https://www.cas.lmu.de/en/events/event/motifs-and-motives-d8fb57b4.html)
+
 Seminar **on $\mathbb{A}^1$-topology, motives and $K$-theory**\
 Zoom, 2020 -- 2022\
 [webpage](https://indico.eimi.ru/category/12/) [videos](https://www.youtube.com/playlist?list=PLZcDZmpzBOREyZxgswL1bYGm_wJ9YkSi0)
