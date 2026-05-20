@@ -19,8 +19,8 @@ For more information, see an extended [Curriculum Vitae](cv.pdf).
 2005 – 2010 **Specialist in Mathematics**, SPbU, St. Petersburg, Russia
 
 ## Research visits
-10 – 11.2026 SLMath, Berkeley, USA (planned)
-05 – 06.2022 Isaac Newton Institute, Cambridge, UK (online due to travel restrictions)
+10 – 11.2026 SLMath, Berkeley, USA (planned)\
+05 – 06.2022 Isaac Newton Institute, Cambridge, UK (online due to travel restrictions)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03.2020 Isaac Newton Institute, Cambridge, UK (suspended due to the pandemic)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.2018 University of Oslo, Oslo, Norway\
 02 – 03.2018 University of Oslo, Oslo, Norway\
