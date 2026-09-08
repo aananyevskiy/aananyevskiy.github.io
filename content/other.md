@@ -8,6 +8,10 @@ description: "Other by Alexey Ananyevskiy."
 ## Ph.D. Students
 [Egor Zolotarev](https://www.en.math.lmu.de/personen/mitarbeiter/zolotarev/index.html), 2022 -- ..., LMU Munich
 
+## MSc. Students
+[Andriy Kryzhanovskyy], 2026, LMU Munich
+[Anton Lin], 2025 -- 2026, LMU Munich
+
 ## Coauthors
 
 [Asher&nbsp;Auel](https://math.dartmouth.edu/~auel/)
@@ -20,6 +24,7 @@ description: "Other by Alexey Ananyevskiy."
 [Alexander&nbsp;Neshitov](https://scholar.google.es/citations?user=99cCqvcAAAAJ&hl=es)
 [Ivan&nbsp;Panin](https://www.mathnet.ru/php/person.phtml?&personid=17453&option_lang=eng)
 [Oliver&nbsp;Röndigs](https://www.mathematik.uni-osnabrueck.de/index.php?id=1956)
+[Alexander&nbsp;Samokhin](https://www.researchgate.net/profile/Alexander-Samokhin)
 [Sergey&nbsp;Sinchuk](https://scholar.google.com/citations?user=Jit3Sg0AAAAJ&hl=en)
 [Nikolai&nbsp;Vavilov](https://scholar.google.ru/citations?user=zmBCj3MAAAAJ&hl=ru)
 [Maria&nbsp;Yakerson](https://www.muramatik.com/)
@@ -28,7 +33,7 @@ description: "Other by Alexey Ananyevskiy."
 
 ## Events organized
 
-**[planned]** Conference **Motifs and Motives**\
+Conference **Motifs and Motives**\
 June 29 – July 03, 2026 at LMU, Munich, Germany\
 *coorganized with Nikita Geldhauser, Andrei Lavrenov and Maksim Zhykhovich*\
 [webpage](https://www.cas.lmu.de/en/events/event/motifs-and-motives-d8fb57b4.html)

@@ -1,10 +1,13 @@
 ---
 title: "Papers and Preprints"
-date: 2025-09-29
+date: 2026-09-10
 hidemeta: true
 description: "Papers by Alexey Ananyevskiy."
 ---
 
+**00. Semiorthogonal decompositions for families of twisted flag varieties**\
+*with Alexander Samokhin*\
+[arXiv](https://arxiv.org/abs/2609.05203)
 
 **00. Chow rings of quasi-split geometrically almost simple algebraic groups**\
 *with Nikita Geldhauser*\
