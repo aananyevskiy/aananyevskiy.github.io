@@ -1,6 +1,6 @@
 ---
 title: "Papers and Preprints"
-date: 2026-09-10
+date: 2026-09-08
 hidemeta: true
 description: "Papers by Alexey Ananyevskiy."
 ---

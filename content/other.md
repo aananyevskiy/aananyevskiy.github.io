@@ -9,8 +9,8 @@ description: "Other by Alexey Ananyevskiy."
 [Egor Zolotarev](https://www.en.math.lmu.de/personen/mitarbeiter/zolotarev/index.html), 2022 -- ..., LMU Munich
 
 ## MSc. Students
-[Andriy Kryzhanovskyy], 2026, LMU Munich
-[Anton Lin], 2025 -- 2026, LMU Munich
+Andriy Kryzhanovskyy, 2026, LMU Munich\
+Anton Lin, 2025 -- 2026, LMU Munich
 
 ## Coauthors
 
