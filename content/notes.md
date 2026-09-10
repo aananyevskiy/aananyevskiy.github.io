@@ -21,6 +21,9 @@ description: "Lecture notes by Alexey Ananyevskiy."
 
 ### Talks
 
+**Combing hedgehogs over a field**\
+[Konstanz 08/09/2026 (slides)](hedgehogs20260908.pdf)
+
 **Combing a hedgehog over a field**\
 [Mainz 23/11/2023 (handwritten)](Hedgehog20231123.pdf)
 
