@@ -24,6 +24,9 @@ description: "Lecture notes by Alexey Ananyevskiy."
 **Combing hedgehogs over a field**\
 [Konstanz 08/09/2026 (slides)](hedgehogs20260908.pdf)
 
+**On semi orthogonal decompositions for twisted flag varieties**\
+[Milan 05/12/2025 (handwritten)](SODs20251205.pdf)
+
 **Combing a hedgehog over a field**\
 [Mainz 23/11/2023 (handwritten)](Hedgehog20231123.pdf)
 
