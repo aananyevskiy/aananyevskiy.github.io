@@ -9,7 +9,7 @@ description: "Papers by Alexey Ananyevskiy."
 *with Alexander Samokhin*\
 [arXiv](https://arxiv.org/abs/2609.05203)
 
-**00. Chow rings of quasi-split geometrically almost simple algebraic groups**\
+**22. Chow rings of quasi-split geometrically almost simple algebraic groups**\
 *with Nikita Geldhauser*\
 to appear in Journal für die reine und angewandte Mathematik\
 [arXiv](https://arxiv.org/abs/2408.09390)
