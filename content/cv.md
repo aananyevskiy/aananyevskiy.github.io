@@ -8,7 +8,7 @@ description: "Short CV of Alexey Ananyevskiy."
 For more information, see an extended [Curriculum Vitae](cv.pdf).
 
 ## Employment and Education
-2022 – &nbsp;... &nbsp;&nbsp; **Heisenberg Position**, LMU München, Munich, Germany\
+2022 – &nbsp;... &nbsp;&nbsp;&nbsp; **Heisenberg Position**, LMU München, Munich, Germany\
 2017 – 2022 **Deputy Director**, EIMI, St. Petersburg, Russia\
 2017 – 2022 **Senior Researcher**, PDMI RAS, St. Petersburg, Russia\
 2017 – 2019 **Senior Researcher**, Chebyshev Laboratory at SPbU, St. Petersburg, Russia\
@@ -20,7 +20,6 @@ For more information, see an extended [Curriculum Vitae](cv.pdf).
 
 ## Research visits
 10 – 11.2026 SLMath, Berkeley, USA (planned)\
-05 – 06.2022 Isaac Newton Institute, Cambridge, UK (online due to travel restrictions)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03.2020 Isaac Newton Institute, Cambridge, UK (suspended due to the pandemic)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.2018 University of Oslo, Oslo, Norway\
 02 – 03.2018 University of Oslo, Oslo, Norway\
