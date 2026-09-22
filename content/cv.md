@@ -28,5 +28,5 @@ For more information, see an extended [Curriculum Vitae](cv.pdf).
 01 – 04.2015 Institute for Advanced Study, Princeton, USA\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06.2014 Universität Duisburg-Essen, Essen, Germany\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05.2013 Fields Institute, Toronto, Canada\
-06 – 08.2011 Universität Bielefeld, Bielefeld, Germany\
-04 – 05.2009 Universität Bielefeld, Bielefeld, Germany
+07 – 08.2011 Universität Bielefeld, Bielefeld, Germany\
+06 – 07.2009 Universität Bielefeld, Bielefeld, Germany
