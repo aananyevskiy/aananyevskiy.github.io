@@ -6,7 +6,7 @@ description: "Other by Alexey Ananyevskiy."
 ---
 
 ## Ph.D. Students
-[Egor Zolotarev](https://www.en.math.lmu.de/personen/mitarbeiter/zolotarev/index.html), 2022 -- ..., LMU Munich
+[Egor Zolotarev](https://sites.google.com/view/egor-zolotarev), 2024 -- ..., LMU Munich
 
 ## MSc. Students
 Andriy Kryzhanovskyy, 2026, LMU Munich\
